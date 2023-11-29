@@ -1,0 +1,49 @@
+
+
+p,h5,ol{
+    text-align: justify;
+    padding-top: 20px;
+}
+   
+.titulo{
+    padding:20px;
+    margin-top: 40px;
+    text-align: left;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 5px;
+   
+    
+}
+img{
+    width: 100%;
+    display:inline-block
+}
+footer{
+    color: #2cc218;
+    padding:30px;
+    text-align: left;
+    
+   
+}
+h4{
+    text-align: center;
+}
+a:link, a:visited {
+    color: #2cc218;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.adicionais{
+    border: 2px solid #18c221;
+    margin:5px ;
+    padding: 10px;
+}
+img{
+    width: 500px;
+}
